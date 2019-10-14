@@ -963,14 +963,3 @@ pwsId,year,analyteCode,pwsName,countyServed,cityServed,waterSource,mean,max,popu
 "1870007","2017","Nitrate","Saint Leo","Yellow Medicine","St. Leo","Purchased Groundwater","4.812 mg/L","5.8 mg/L","97","27173"
 "1870008","2017","Nitrate","Wood Lake","Yellow Medicine","Wood Lake","Groundwater","0.025 mg/L (ND)","0.025 mg/L (ND)","439","27173"
 
-Source:
-Minnesota Public Health Data Access
-Minnesota Environmental Public Health Tracking Program
-Minnesota Department of Health
-P.O. Box 64882
-"St. Paul, MN 55164-0882"
-Phone: (651) 201-5900 or toll free: 1-800-205-4987
-Fax: (651) 201-5926
-E-mail: tracking.health@state.mn.us
-Web: http://health.mn.gov/mndata 
-
