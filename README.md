@@ -18,7 +18,7 @@ Three contaminant levels in municipal water supplies throughout the state in 201
 -	Alternative Hypothesis: There are significant differences in contaminants between the wealthiest (bin 1) and poorest (bin 5) grouped counties.
 
 ### Visualization 
-These visualizations analyzed Arsenic in relation to poverty rates among counties. They are created using a Python visualizations library called Seaborn. Statiscal summaries from ANOVA testing showed that there is no statistically significant difference in the levels of Arsenic across income groups. The levels recorded in testing across the state are significantly below EPA safety standards, and do not vary significantly either within or between poverty level groupings. Similarly there's no difference of Arsenic between the wealthiest and poorest counties according to the Student t-test. The same observations were made for Nitrate and Uranium in regards to poverty rates.
+These visualizations analyzed Arsenic in relation to poverty rates among counties. They are created using a Python visualizations library called Seaborn. Statiscal summaries from ANOVA testing showed that there is no statistically significant difference in the levels of Arsenic across income groups. The levels recorded in testing across the state are significantly below EPA safety standards, and do not vary significantly either within or between poverty level groupings. Similarly there's no difference of Arsenic between the wealthiest and poorest counties according to the Student t-test. The same observations are made for Nitrate and Uranium in regards to poverty rates.
 
 ![Visualization](Arsenic1.png)    ![Visualization](Arsenic2.png)
 ### Findings
