@@ -18,6 +18,8 @@ Three contaminant levels in municipal water supplies throughout the state in 201
 -	Alternative Hypothesis: There are significant differences in contaminants between the wealthiest and poorest grouped counties.
 
 ### Visualization 
+These visualizations analyze Arsenic in relation to poverty rates among counties. They were created using a Python visualizations library called Seaborn. Statiscal summaries from ANOVA testing show that there is no statistically significant difference in the levels of Arsenic across income groups. The levels recorded in testing across the state are significantly below EPA safety standards, and do not vary significantly either within or between poverty level groupings. Similarly there's no difference of Arsenic between the wealthiest and poorest counties according to the Student t-test. The same observations were made for Nitrate and Uranium in regards to poverty rates.
+
 ![Visualization](Arsenic1.png)    ![Visualization](Arsenic2.png)
 ### Findings
 ANOVA and t-test failed to show that low income areas have poorer water quality than wealthier areas in Minnesota, or that there is a significant difference in water quality between any of the county groupings. Given more time and available resources, we could examine the water quality by the city-level instead of by county-level. Performing the ANOVA on grouped cities might or might not unveil more findings about their population means. If at least one population mean is different from the others, further testing (ad hoc test) will be needed to identify which groups are different from another
