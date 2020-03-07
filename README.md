@@ -7,7 +7,7 @@ Three contaminant levels in municipal water supplies throughout the state in 201
 1. Is there a significance difference between the mean concentration of a particular contaminant in a group compared to another?
 
 2. Is there a significance difference between the mean concentration of a particular contaminant in the wealthiest counties compared to the poorest?
- ### Statistical Methods
+### Statistical Methods
  
 1. ANOVA (addresses the first question)
 
@@ -17,5 +17,8 @@ Three contaminant levels in municipal water supplies throughout the state in 201
 -	Null Hypothesis: the mean concentration of contaminant is the same among the wealthiest and poorest grouped counties
 -	Alternative Hypothesis: There are significant differences in contaminants between the wealthiest and poorest grouped counties.
 
- 
- 
+### Visualization 
+![Visualization](Arsenic1.png)
+
+### Findings
+ANOVA and t-test failed to show that low income areas have poorer water quality than wealthier areas in Minnesota, or that there is a significant difference in water quality between any of the county groupings. Given more time and available resources, we could examine the water quality by the city-level instead of by county-level. Performing the ANOVA on grouped cities might or might not unveil more findings about their population means. If at least one population mean is different from the others, further testing (ad hoc test) will be needed to identify which groups are different from another
